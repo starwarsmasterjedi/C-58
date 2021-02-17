@@ -1,0 +1,21 @@
+body {
+    text-align: center;background-color:cyan;
+}
+
+#Section1 {
+    background: linear-gradient(#03fcf0 0%, #030bff 100%)
+}
+
+#img1 {
+    border-radius: 50%;
+}
+
+#Section2 {
+    background: linear-gradient(#030bff 0%, #03fcf0 100%);
+    font-size: 55px;
+}
+
+.menu {
+    list-style: none;position:absolute;right:40px;cursor:pointer;
+}.links{float:left;
+font-size:30px;color:white;padding-top:10px;padding-bottom:10px;padding-right:10px;padding-left:10px; }.links:hover{background-color:black;font-size:40px}
